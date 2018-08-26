@@ -3,7 +3,7 @@
 </template>
 <script>
 export default {
-  name: 'header'
+  name: 'v-header'
 }
 </script>
 <style scoped lang="stylus">
