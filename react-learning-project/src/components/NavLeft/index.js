@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import MenuConfig from './../../resource/menuConfig';
-import { Menu, Icon } from 'antd';
+import { Menu } from 'antd';
 import './index.less';
 
 const { SubMenu } = Menu;
